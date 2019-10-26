@@ -116,7 +116,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: #000;
+    color: #000563;
 }
 a.read-more {
     color: #bc4208;
@@ -144,12 +144,11 @@ section,
     height: 100%;
     top: 0;
     z-index: -1;
-    background: -moz-linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
-    background: -webkit-linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
-    background: -o-linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
-    background: -ms-linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
-    background: linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
-	background: linear-gradient(135deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 100%);
+    background: -moz-linear-gradient(155deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 72%);
+    background: -webkit-linear-gradient(155deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 72%);
+    background: -o-linear-gradient(155deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 72%);
+    background: -ms-linear-gradient(155deg, rgba(188,66,8,1) 0%, rgba(0,5,99,1) 72%);
+    background: linear-gradient(155deg, rgba(188,66,8,1) 8%, rgba(0,5,99,1) 88%);
 }
 
 .bg-overlay.gradient-bg:before{
@@ -505,7 +504,7 @@ cite {
 .btn-primary:hover,
 .btn-dark:hover,
 .btn-white.btn-primary:hover {
-    background: #d3004e;
+    background: #bc4208;
     color: #fff;
 }
 .btn-border:hover {
@@ -687,7 +686,7 @@ ul.navbar-nav > li {
     display: inline-block;
     position: relative;
     padding: 0 5px;
-    line-height: 80px;
+    line-height: 120px;
 }
 ul.navbar-nav > li:last-child {
     padding-right: 0;
@@ -702,7 +701,7 @@ ul.navbar-nav > li > a {
     display: inline-block;
     padding: 6px 10px;
     line-height: normal;
-    font-size: 13px;
+    font-size: 14px;
     margin: 0;
     text-transform: uppercase;
     position: relative;
@@ -1272,13 +1271,13 @@ ul.navbar-nav > li:hover > a{
     color: #ff6702;
 }
 .countdown > div.counter-hour {
-    color: #FFC107;
+    color: #d19f0a;
 }
 .countdown > div.counter-minute {
-    color: #03A9F4;
+    color: #0e81b5;
 }
 .countdown > div.counter-second {
-    color: #8BC34A;
+    color: #252cb0;
 }
 
 /* Countdown col */
@@ -1896,7 +1895,7 @@ ul.navbar-nav > li:hover > a{
     height: 50px;
     margin-left: 20px;
     padding-left: 10px;
-    background: #000;
+    background: #000563;
     background: rgba(0,0,0,.35);
     border: 1px solid #1d1c1c;
 }
@@ -2367,7 +2366,7 @@ h4.panel-title a.collapsed:before {
 }
 #back-to-top .btn.btn-primary:hover {
     color: #fff;
-    background: #000;
+    background: #bc4208;
 }
 
 
@@ -3184,12 +3183,12 @@ section#program ul#myTab li:not(:active) a
 
 section#program ul#myTab li.active a
 {
-    color: #000;
+    color: #000563;
 }
 
 section#program ul#myTab li.active a:hover
 {
-    color: #000;
+    color: #000563;
 }
 
 section#program h2
