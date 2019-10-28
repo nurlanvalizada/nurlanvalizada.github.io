@@ -159,7 +159,7 @@
 		width: 100%;
 		display: inline-block;
 		background: #1c1c1c;
-		background: rgba(0, 0, 0, 0.95);
+		background: rgba(0, 5, 99, 0.95);
 	}
 
 	.navbar-collapse{
@@ -217,7 +217,7 @@
 
 	ul.navbar-nav > li:hover > a {
    	background: none;
-    	color: #ff0763;
+    	color: #ff6702;
 	}
 
 	.header-ticket .ticket-btn{
@@ -422,7 +422,7 @@
 		width: 100%;
 		display: inline-block;
 		background: #1c1c1c;
-		background: rgba(0, 0, 0, 0.95);
+		background: rgba(0, 5, 99, 0.95);
 	}
 
 	.navbar-collapse{
@@ -438,7 +438,7 @@
 
 	ul.navbar-nav > li:hover > a {
    	background: none;
-    	color: #ff0763;
+    	color: #ff6702;
 	}
 
 	.header-ticket .ticket-btn{
